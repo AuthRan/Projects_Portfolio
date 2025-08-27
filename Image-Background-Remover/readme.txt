@@ -1,1 +1,1 @@
-Thi is code for removing background for a particular image.
+This is code for removing background for a particular image.
